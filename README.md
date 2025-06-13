@@ -1,4 +1,4 @@
-# CEIA-AD-TP1 - Burnout en empleados corporativos
+# CEIA-AD - Burnout en empleados corporativos
 
 **Miembros del grupo:**
 - Emiliano Iparraguirre <emiliano.iparraguirre22@gmail.com>
